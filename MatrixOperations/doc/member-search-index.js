@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"matrix","c":"Matrix","l":"getColumns()"},{"p":"matrix","c":"Matrix","l":"getData()"},{"p":"matrix","c":"Matrix","l":"getRows()"},{"p":"matrix","c":"Matrix","l":"importDataFromArray(int[][])"},{"p":"matrix","c":"Matrix","l":"Matrix(int, int)","u":"%3Cinit%3E(int,int)"}];updateSearchResults();
